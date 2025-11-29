@@ -9,13 +9,7 @@ Retrieves data from a table.
 
 ```sql
 SELECT * FROM employees;
-Effect: Shows all rows and columns from employees.
 
-2. SELECT (specific columns)
-sql
-Copy code
-SELECT name, salary FROM employees;
-Effect: Returns only the requested columns.
 
 3. WHERE (filter data)
 sql

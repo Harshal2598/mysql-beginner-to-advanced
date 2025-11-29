@@ -1,14 +1,20 @@
-# 🏆 Top 20 Most Important SQL Queries (With Examples & Effects)
+🏆 Top 20 Most Important SQL Queries (With Examples & Effects)
 These 20 commands are the most commonly used in real development, interviews, and daily SQL work.
 
 ---
-
+```sql
 ## 1. SELECT  
 Retrieves data from a table.
 
-```sql
-SELECT * FROM employees;
 
+SELECT * FROM employees;
+Effect: Shows all rows and columns from employees.
+
+2. SELECT (specific columns)
+sql
+Copy code
+SELECT name, salary FROM employees;
+Effect: Returns only selected columns.
 
 3. WHERE (filter data)
 sql

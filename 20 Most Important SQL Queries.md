@@ -1,6 +1,5 @@
 # 🏆 Top 20 Most Important SQL Queries (With Examples & Effects)
-
-These 20 commands are the **most commonly used** in real development, interviews, and daily SQL work.
+These 20 commands are the most commonly used in real development, interviews, and daily SQL work.
 
 ---
 
